@@ -1,15 +1,10 @@
 # Itrat Zehrh
 
-## **Freelance Computational Biologist | Omics & ML**
+## **Computational Biologist | Omics & ML**
 
 ---
 ## About Me
 I am a computational biologist specializing in machine learning, omics data analysis, and data visualization. I work with transcriptomics, genomics, and other multi-omics datasets to develop reproducible workflows and predictive models. I am proficient in R, Python, and Linux for bioinformatics analysis.  
-
-In addition to bioinformatics, I provide services in:
-- WordPress website development,
-- SEO content writing, and
-- scientific blog writing.  
 
 ---
 ## Domains of Expertise
@@ -20,9 +15,7 @@ In addition to bioinformatics, I provide services in:
 
 ---
 ## Programming & Tools
-- **Languages:** R, Python  
-- **Platforms/Tools:** RStudio, Jupyter Notebooks, google colab, Bioconductor, ggplot2, dplyr , Linux  
-
+- **R, Python**  
 ---
 ## Featured Projects
 1. [AI & Omics Research Internship (2025)](https://github.com/zehrhiz/AI_and_Omics_Research_Internship_2025)  
