@@ -1,31 +1,30 @@
 # Itrat Zehrh
 
-## **Computational Biologist | Omics & ML**
+## **Computational Biologist | Omics · Machine Learning · Translational Research**
 
 ---
 ## About Me
-I am a computational biologist specializing in machine learning, omics data analysis, and data visualization. I work with transcriptomics, genomics, and other multi-omics datasets to develop reproducible workflows and predictive models. I am proficient in R, Python, and Linux for bioinformatics analysis.  
+I am a computational biologist with six years of experience spanning wet lab, clinical research, and bioinformatics. My work sits at the intersection of multi-omics data analysis and machine learning. I am currently seeking a PhD position in computational biology or oncology to develop this further into independent research. 
 
 ---
-## Domains of Expertise
-- Omics: Transcriptomics, genomics, Multi-omics  
-- Machine Learning & AI   
-- Epidemiology & Biostatistics  
-- Data visualization and reproducible workflow design  
+## Research Interests
+- Cancer genomics and transcriptomics
+- Machine learning for biomarker discovery
+- Multi-omics data integration
+- Reproducible research infrastructure 
 
 ---
-## Programming & Tools
-- **R, Python**  
+## Technical Skills
+Programming : Python, R, Bash/Linux
+Domains: Transcriptomics, genomics, epidemiology, biostatistics, data visualization
+
 ---
 ## Featured Projects
-1. [AI & Omics Research Internship (2025)](https://github.com/zehrhiz/AI_and_Omics_Research_Internship_2025)  
-2. [ML-Based Classification of IUGR and Preeclampsia](https://github.com/zehrhiz/ML-Based-Prediction-IUGR-PE)  
+1. [Machine Learning Based Classification of Intrauterine Growth Restriction (IUGR) and Preeclampsia (PE) ](https://github.com/zehrhiz/ML-Based-Prediction-IUGR-PE)  
 3. [Breast Cancer Classification Using Machine Learning](https://github.com/zehrhiz/ML-Based-Biomarker-Identification)  
 
 ---
 ## Contact
 - **LinkedIn:** [Itrat Zehrh](www.linkedin.com/in/20zehraitrat)  
-- **Email:** zehrhiz@gmail.com  
+- **Email:** itratzehra33@gmail.com  
 ---
-
-**I develop reproducible computational biology workflows, machine learning pipelines, and provide freelance support for research and bioinformatics projects.**
