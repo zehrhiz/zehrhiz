@@ -1,4 +1,4 @@
-# Hi, I'm Itrat Zehra 👋
+# Hi, I'm Itrat Zehrh 👋
 ### Computational Biologist | Omics · Machine Learning · Translational Research
 
 ---
